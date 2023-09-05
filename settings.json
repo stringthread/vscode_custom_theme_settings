@@ -1,0 +1,62 @@
+{
+  "workbench.colorTheme": "Brynrun",
+  "editor.fontFamily": "Ubuntu mono, 游ゴシック Medium, monospace",
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.stickyScroll.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorCustomizations": {
+    "[Brynrun]": {
+      "editor.background": "#291E17",
+      "statusBar.background": "#755434",
+      "statusBar.foreground": "#F5E6D7",
+      "activityBar.background": "#66492D",
+      "activityBar.foreground": "#FFE7C2",
+      "activityBar.activeBackground": "#8F5D33",
+      "activityBar.inactiveForeground": "#FFD494",
+      "sideBar.background": "#3D2E20",
+      "list.activeSelectionBackground": "#634400AA",
+      "list.inactiveSelectionBackground": "#634400AA",
+      "list.hoverBackground": "#4D390F66",
+      "list.focusOutline": "#636633",
+      "titleBar.activeBackground": "#3D2E20",
+      "titleBar.inactiveBackground": "#3D2E20",
+      "editorGroupHeader.tabsBackground": "#3D2E20",
+      "editor.selectionBackground": "#99915488",
+      "editor.lineHighlightBackground": "#99915422",
+      "editor.foldBackground": "#9953721a",
+      "editor.selectionHighlightBackground": "#0000",
+      "editor.selectionHighlightBorder": "#0000",
+      "editor.wordHighlightBackground": "#99915433",
+      "editor.wordHighlightBorder": "#0000",
+      "editor.wordHighlightStrongBackground": "#99915444",
+      "editor.wordHighlightStrongBorder": "#99915466",
+      "editorStickyScroll.background": "#464123",
+      "editorStickyScrollHover.background": "#514e28",
+      "commandCenter.background": "#2E211A",
+      "terminal.background": "#2E211A",
+      "terminal.foreground": "#F5E1CE"
+    }
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "variable.language",
+        "settings": {
+          "fontStyle": ""
+        }
+      },
+      {
+        "scope": "meta.object-literal.key",
+        "settings": {
+          "foreground": "#BFB9B3",
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "editor.unicodeHighlight.allowedLocales": {
+    "ja": true
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false
+}
